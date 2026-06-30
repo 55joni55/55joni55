@@ -15,14 +15,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="https://t.me/G5_55_5G"  />
+  <img src="https://t.me/G5_55_5G" width="52" height="40" alt="telegram logo"  />
 </div>
 
 ###
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/55joni55">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=55joni55&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jesgyje5oi6mfmlwnfymfo66eq" alt="Spotify recently played"  />
   </a>
 </div>
 
