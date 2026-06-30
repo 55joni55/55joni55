@@ -11,25 +11,19 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.magnific.com/premium-vector/social-media-icon-illustration-tiktok-tiktok-icon-vector-illustration_561158-2136.jpg" width="52" height="40" alt="tiktok logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://t.me/G5_55_5G" width="52" height="40" alt="telegram logo"  />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/55joni55">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jesgyje5oi6mfmlwnfymfo66eq" alt="Spotify recently played"  />
+  <a href="https://tiktok.com/@55joni55" target="_blank">
+    <img src="https://static.cdnlogo.com/logos/t/46/tiktok-icon-black.svg" width="52" height="40" alt="tiktok logo"  />
+  </a>
+  <a href="https://discord.com/users/786470784172163083" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@55joni55" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/55joni55_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/G5_55_5G" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
-
-###
